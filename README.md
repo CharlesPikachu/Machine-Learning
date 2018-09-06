@@ -2,7 +2,8 @@
 【Python】Machine Learning
 
 # To Do:
-- [x] KNN
+- [x] [KNN](https://mp.weixin.qq.com/s/IK5F7JYRq1elYxeasN-GZw)
+- [x] [Linear regression]()
 
 # More:
 ## WeChat Official Accounts:
